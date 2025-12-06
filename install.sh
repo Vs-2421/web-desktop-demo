@@ -3,7 +3,8 @@
 # aburOS - Universal Web Desktop Environment
 # Version: 2.0.0
 # License: MIT
-# Repository: https://github.com/[your-username]/aburOS
+# Repository: https://github.com/Vs-2421/web-desktop-demo
+#It was originally abur**, but due to GitHub restrictions it's now a web-desktop-demo.
 
 set -e
 
