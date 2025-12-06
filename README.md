@@ -32,12 +32,12 @@ File System: Browser-based virtual file system with localStorage persistence
 🚀 Getting Started
 Quick Install (Linux/Termux)
 bash
-curl -L https://raw.githubusercontent.com/[username]/web-desktop-demo/main/install.sh | bash
+curl -L https://raw.githubusercontent.com/Vs-2421/web-desktop-demo/main/install.sh | bash
 Manual Installation
 Clone the repository:
 
 bash
-git clone https://github.com/[username]/web-desktop-demo.git
+git clone https://github.com/Vs-2421/web-desktop-demo.git
 cd web-desktop-demo
 Run the installer:
 
